@@ -2,10 +2,6 @@
 
 ## Live Demo
 
-### 🚀 Interactive Demo
-
-<iframe src="https://kushs-todo-react.vercel.app/" width="100%" height="600" frameborder="0" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
-
 ### 📱 Direct Links
 
 **[View the live todo app here](https://kushs-todo-react.vercel.app/)**
